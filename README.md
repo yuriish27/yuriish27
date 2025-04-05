@@ -1,7 +1,7 @@
 
 <div align="center">
   
-## 👋 Hello, I'm Yurii
+## 👋 Hello, I'm Yurii 👋 
 
 ** JavaScript Developer**
 
