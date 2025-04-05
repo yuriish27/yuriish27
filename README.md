@@ -18,7 +18,7 @@
 
 ## 🔮 My Coding Philosophy
 
-*"I 'm deeply immersed in coding - constantly typing, debugging, releasing features, and deploy on Vercel, and thrive in the world of fast shipping, clean UI, and problem-solving."*
+*"I am deeply immersed in coding - constantly typing, debugging, releasing features, and deploy on Vercel, and thrive in the world of fast shipping, clean UI, and problem-solving"*
 
 ---
 
