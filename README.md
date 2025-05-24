@@ -24,6 +24,11 @@
 
 ## 🛠️ Tech Stack
 
+Mobile Magic
+<span>
+  <img src="https://skillicons.dev/icons?i=react native" />
+</span>
+
 Frontend Magic
 <span>
   <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,typescript,tailwind,bootstrap,materialui" />
